@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1440" started-at="2020-09-16T16:29:25 PDT" finished-at="2020-09-16T16:29:27 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1440" started-at="2020-09-16T16:29:25 PDT" finished-at="2020-09-16T16:29:27 PDT">
+      <class name="Keyworddrivendemos.keywordprodsearchTest">
+        <test-method status="PASS" signature="SampleTest()[pri:0, instance:Keyworddrivendemos.keywordprodsearchTest@52feb982]" name="SampleTest" duration-ms="1333" started-at="2020-09-16T16:29:25 PDT" finished-at="2020-09-16T16:29:27 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SampleTest -->
+      </class> <!-- Keyworddrivendemos.keywordprodsearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,4 @@
+# Created at 2020-09-17T22:55:39.079
+Boot Manifest-JAR contains absolute paths in classpath 'E:\selenium\singh\com.practice.mvn1\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
